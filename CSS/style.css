@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.upper-container {
+  background-color: #1e1e71;
+  margin-top: 0;
+  padding: 10px 0px;
+}
+
+.uc-text {
+  color: #f7f5f3;
+}
